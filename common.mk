@@ -477,6 +477,8 @@ PRODUCT_COPY_FILES += \
 PRODUCT_DEXPREOPT_SPEED_APPS += \
     Settings \
     SystemUI \
+    SettingsGoogle \
+    SystemUIGoogle \
     GoogleDialer
 
 # Protobuf
