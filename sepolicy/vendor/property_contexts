@@ -1,6 +1,7 @@
 # Camera
 vendor.camera.sensor.    u:object_r:vendor_camera_sensor_prop:s0
 ro.boot.camera.config    u:object_r:vendor_camera_sensor_prop:s0
+persist.camera.                        u:object_r:vendor_camera_prop:s0
 
 # Fastcharge HAL
 persist.vendor.sec.fastchg_enabled              u:object_r:vendor_fastcharge_prop:s0
