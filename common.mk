@@ -294,7 +294,9 @@ PRODUCT_PACKAGES += \
     android.hardware.health-service.qti
 
 PRODUCT_PACKAGES += \
+    libhidltransport \
     libhidltransport.vendor \
+    libhwbinder \
     libhwbinder.vendor
 
 # HotwordEnrollement
